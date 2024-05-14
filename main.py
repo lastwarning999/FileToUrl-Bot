@@ -17,9 +17,9 @@ if Port != 80:
 
 # These example values won't work. You must get your own api_id and
 # api_hash from https://my.telegram.org, under API Development.
-api_id = 12345
-api_hash = 'abcd'
-bot_token = 'efg'
+api_id = 20401009
+api_hash = '6445b43e4af228532e84848d1bb2eb64'
+bot_token = '6882280996:AAFHCrV0s8yep4LGtYBXxoQQWMDS4oVy0i0'
 
 # Set the admin of the bot that can use it. These values must be your ID. Get it from @myidbot
 admins = {}
